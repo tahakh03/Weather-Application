@@ -34,3 +34,7 @@ This project is a Weather Application built using Python's Tkinter for the GUI a
 - `requests`: HTTP library for making API requests.
 - `timezonefinder`: Library to find the timezone of a location based on latitude and longitude.
 - `pytz`: World timezone definitions and daylight saving time (DST) calculations.
+
+### Demo
+
+![demo](https://github.com/tahakh03/Weather-Application/blob/main/demo.gif)
